@@ -7,3 +7,6 @@ Implementing the architecture
 We will be using vagrant. Vagrant will create Virtual Machine on VM Box.
 
 To understand the architecture, check the below video link to understand the above architecture
+
+
+https://drive.google.com/file/d/1z0Xg4zQAbigY93-5h8AQz0zdiGq6chjf/view?usp=share_link
